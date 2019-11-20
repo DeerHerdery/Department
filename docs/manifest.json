@@ -1,7 +1,7 @@
 {
   "short_name": "Sltn",
   "name": "DeerHerdery.Department",
-  "start_url": "/",
+  "start_url": "/Department/",
   "display": "standalone",
   "icons": [
     {
