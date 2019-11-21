@@ -1,5 +1,5 @@
-const baseURL = '/Department/';
-const indexURL = '/Department/index.html';
+const baseURL = '/';
+const indexURL = '/index.html';
 const networkFetchEvent = 'fetch';
 const swInstallEvent = 'install';
 const swInstalledEvent = 'installed';
@@ -57,6 +57,7 @@ const requiredFiles = [
 "/css/site.css",
 "/default-icon-192x192.png",
 "/default-icon-512x512.png",
+"/favicon.ico",
 "/index.html",
 "/sample-data/weather.json",
 "/ServiceWorkerRegister.js",
