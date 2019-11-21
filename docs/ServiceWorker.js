@@ -58,7 +58,7 @@ const requiredFiles = [
 "/default-icon-192x192.png",
 "/default-icon-512x512.png",
 "/favicon.ico",
-"/Department/index.html",
+"/index.html",
 "/sample-data/weather.json",
 "/ServiceWorkerRegister.js",
 "/manifest.json"
