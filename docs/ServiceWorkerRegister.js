@@ -108,3 +108,4 @@ window.addEventListener('beforeinstallprompt', function (e) {
     showAddToHomeScreen();
 
 });
+
